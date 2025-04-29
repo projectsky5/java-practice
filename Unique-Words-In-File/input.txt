@@ -1,0 +1,12 @@
+Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.
+
+Java code runs on the Java Virtual Machine (JVM). The JVM allows Java programs to be compiled once and run anywhere.
+
+Public classes in Java should be named after the file. A class can contain fields and methods. Java has primitive types like int, boolean, and double.
+
+Override methods with @Override annotation. Use Math and Regex utilities in Java if needed.
+
+public static void main(String[] args) {
+    System.out.println("Hello, Java!");
+}
+
