@@ -33,6 +33,8 @@ Multithreading:
 
 Sockets:
 
+TCP:
+
 19. First-Echo-Server
 20. Second-Echo-Server-Shutting-Down
 21. Echo-Server-With-Logouts
@@ -40,3 +42,11 @@ Sockets:
 23. Multithreading-Echo-ExecutorService
 24. Multithreading-Echo-Roles
 25. Multithreading-Echo-Commands
+26. Multithreading-Vote-Service
+
+UDP:
+
+27. Simple-UDP-Server
+28. First-CLI-UDP
+
+
