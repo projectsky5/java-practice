@@ -1,8 +1,6 @@
 # java-practice
 Practice
 
-Начало: 10.04.2025
-
 Порядок выполнения:
 
 Java Core:
