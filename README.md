@@ -1,4 +1,4 @@
-# java-practice
+# Java-practice
 Practice
 
 Порядок выполнения:
