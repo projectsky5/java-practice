@@ -1,8 +1,6 @@
 # Java-practice
 Practice
 
-Порядок выполнения:
-
 Java Core:
 1. User-Filter
 2. Words-In-String
